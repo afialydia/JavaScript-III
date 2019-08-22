@@ -53,6 +53,6 @@ Afia.speak();
 
 // Principle 4
 
-Afia.speak.call(Justin)
+Afia.speak.call(Justin) 
 
 // code example for Explicit Binding
